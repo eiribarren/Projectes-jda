@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="acta.css" ?>
+<acta>
+    <sessio> 68 </sessio>
+    <comunitat> Junta de propietaris del Carrer de la Selva de Mar, 211 </comunitat>
+    <data> 21 de setembre de 2015 </data>
+    <inici>20</inici> <acabament>23:45</acabament>
+    <lloc>el pati de la Sra. Encarna</lloc>
+    <president>Sr. Lluís Bendito i Sigüenza</president>
+    <vicepresident>Sra. Ramona González Remolona</vicepresident>
+    <administrador>Sr. Romualdo Malandrín Segura</administrador>
+    <assistents>
+        <assistent>
+            <pis>1er 1ra</pis>
+            <veï>Sra. Josefa Ramos Granados</veï>
+        </assistent>
+        <assistent>
+            <pis>1er 2na</pis>
+            <veï>Sr. Vicent Carallot i Gripau</veï>
+        </assistent>
+        <assistent>
+            <pis>2on 1ra</pis>
+            <veï>Sr. Lluís Benito i Sigüenza</veï>
+        </assistent>
+        <assistent>
+            <pis>2on 2na</pis>
+            <veï>Sra. Ramona González Remolona</veï>
+            <veï>Sr. Carles Valdaura Ronyós</veï>
+        </assistent>
+        <assistent>
+            <pis>3er 1ra</pis>
+            <veï>Sr. Lam Kam Chuen</veï>
+        </assistent>
+    </assistents>
+    <noassistents>
+        <pis>3er 2na</pis>
+        <pis>4rt 1ra</pis>
+        <pis>4rt 2na</pis>
+    </noassistents>
+    <ordredeldia>
+        <punt>1. Lectura i aprovació, si escau, de l'acta anterior</punt>
+        <punt>2. Estat de pagament de les quotes del propietari del pis 4rt 2na.</punt>
+        <punt>3. Torn obert de paraula</punt>
+        <punt>4. Horari de reg i utilització dels espais comuns per part del propietari del pis 4rt 2na.</punt>
+    </ordredeldia>
+    <desenvolupament>
+        <entrada>
+            <paragraf>Punt 1. La sra. vicepresidenta llegeix l’acta de la reunió.</paragraf>
+        </entrada>
+        <entrada>
+            <paragraf>Punt 2. El sr. president passa la paraula al Sr. administrador qui descriu que el pis 4rt 2na no està al corrent de pagament de les quotes de la comunitat. Indica que el propietari en qüestió va deixar de pagar fa cinc mesos i deu a la comunitat 376.25€.</paragraf>
+            <paragraf>El sr. Vicent Carallot exposa els problemes que està tenint amb el reg de les plantes a qualsevol hora i de manera desproporcionada, per part del propietari del pis en qüestió i també que deixa una pudor inaguantable a la porteria quan baixa les escombreries. Altres veïns s’hi afegeixen a la discussió.</paragraf>
+        </entrada>
+        <entrada>
+            <paragraf>El sr. Chin Pun indica que l’ascensor no arriba al seu pis o bé que s’ha comprat un gos verd (cap de la junta ni el Sr. administrador vam poder esverinar-ho exàctament). En tot cas, se li indica que aquest tema havia de ser tractat al torn obert de paraula.</paragraf>
+        </entrada>
+        <entrada>
+            <paragraf>Punt 4. Queda tractat amb el punt 2.</paragraf>
+        </entrada>
+        <entrada>
+            <paragraf>Punt 3. No queda temps per desenvolupar aquest punt. El sr. Cho Chin protesta i la junta acorda oferir-li una oportunitat per a exposar el seu tema en una reunió propera.</paragraf>
+        </entrada>
+    </desenvolupament>
+    <acords>
+    </acords>
+    <temespendents> </temespendents>
+</acta>
+
