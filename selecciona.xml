@@ -1,0 +1,34 @@
+<exercici títol="A quí selecciona" email="eiribarren@iesjoandaustria.org">
+    <selector nr="1">
+        <selecciona>
+            #revelacio selecciona el contingut d'una etiqueta amb l'id revelacio
+        </selecciona>
+        <aspecte>
+            El text es mostrarà amb la font Tahoma i s'alineara a l'esquerra.
+        </aspecte>
+    </selector>
+    <selector nr="2">
+        <selecciona>
+            Selecciona l'etiqueta director que es inmediatament a dintre de l'etiqueta pelicula
+        </selecciona>
+        <aspecte>
+            El contingut tindrà un fons de color vermell, el text tindrà un tamany de 12 punts i es mostrarà de color blau, la vora tindrà un tamany d'1px i serà una serie de punts negres.
+        </aspecte>
+    </selector>
+    <selector nr="3">
+        <selecciona>
+            Selecciona totes les etiquetes nom
+        </selecciona>
+        <aspecte>
+            El bloc ocuparà tot l'ample de la pàgina, l'altura serà de 20 pixels, el text es mostrarà en negreta, es mostrarà el contingut com un bloc, la vora tindrà un tamany de 5 pixels i serà una serie de punts vermells
+        </aspecte>
+    </selector>
+    <selector nr="4">
+      <selecciona>
+            Selecciona totes les etiquetes nom que siguin descendents de l'etiqueta pelicula
+      </selecciona>
+      <aspecte>
+            No mostrarà el contingut
+      </aspecte>
+    </selector>
+</exercici>
