@@ -1,5 +1,5 @@
 <exercici títol="Avantatges dels CSS" email="«el teu email»">
-    <avantatge nr="1">bnjgh</avantatge>
-    <avantatge nr="2"></avantatge>
-    <avantatge nr="3"></avantatge>
+    <avantatge nr="1">Permet mostrar els mateixos continguts de maneres diferents</avantatge>
+    <avantatge nr="2">Permet mostrar la informació del document segons les necessitats de l'usuari</avantatge>
+    <avantatge nr="3">Permet definir l'estil de diversos documents en un mateix fitxer</avantatge>
 </exercici>
