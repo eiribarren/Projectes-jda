@@ -1,7 +1,7 @@
 <exercici títol="A quí selecciona" email="eiribarren@iesjoandaustria.org">
     <selector nr="1">
         <selecciona>
-            #revelacio selecciona el contingut d'una etiqueta amb l'id revelacio
+            Selecciona el text Douglas Silva perquè té l'id revelació
         </selecciona>
         <aspecte>
             El text es mostrarà amb la font Tahoma i s'alineara a l'esquerra.
@@ -9,7 +9,7 @@
     </selector>
     <selector nr="2">
         <selecciona>
-            Selecciona l'etiqueta director que es inmediatament a dintre de l'etiqueta pelicula
+            Selecciona el contingut de director que es inmediatament a dintre de l'etiqueta pelicula.
         </selecciona>
         <aspecte>
             El contingut tindrà un fons de color vermell, el text tindrà un tamany de 12 punts i es mostrarà de color blau, la vora tindrà un tamany d'1px i serà una serie de punts negres.

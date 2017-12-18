@@ -1,7 +1,33 @@
+
+
 sessio {
   position: fixed;
 }
 
+assistent pis::after {
+  content:":";
+}
+
+veï::after {
+  content:",";
+}
+
 comunitat {
   text-transform: capitalize;
+}
+
+noassistents pis::after {
+  content:",";
+}
+
+noassistents pis:last-child::after {
+  content: none;
+}
+
+noassistents pis:last-child::before {
+  content:"i ";
+}
+
+desenvolupament paragraf {
+  display: block;
 }
